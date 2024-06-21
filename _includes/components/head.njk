@@ -2,7 +2,7 @@
   <meta charset="utf-8">
   <meta name="generator" content="{{ eleventy.generator }}">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ title or metadata.title }}</title>
+  <title>Global Poster: {{ title or metadata.title }}</title>
   <meta name="description" content="{{ metaDescription or eleventyComputed.metaDescription or metadata.description }}">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -17,4 +17,8 @@
     {% include "assets/js/inline.js" %}
   {% endset %}
   <script>{{ js | jsmin | safe }}</script> #}
+  <meta property="og:image" content="https://global-poster-la.com/static/img/global-poster-ten-commandments-1-2-merge.jpg">
+  <meta property="og:image:alt" content="Government-mandated Ten Commandments posters now available from Global Poster.">
+  <meta property="og:description" content="Government-approved Ten Commandments posters now available!">
+  <meta property="og:title" content="Global Poster: {{ title or metadata.title }}">
 </head>
