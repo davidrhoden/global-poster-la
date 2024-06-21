@@ -8,8 +8,11 @@ eleventyNavigation:
   order: 1
 ---
 
-Global Poster is a vendor of posters, including Louisiana Government-mandated Ten Commandments posters.
-
+Global Poster is a vendor of posters, including
+Louisiana Government-mandated Ten Commandments posters.
 Contact us for all your poster and poster-adjacent needs.
-
 Tape and thumbtacks in stock.
+
+![Get in touch with Global Poster. Government-mandated Ten Commandments posters now available.](/static/img/global-poster-ten-commandments-1.jpg)
+
+![Get in touch with Global Poster. Government-mandated Ten Commandments posters now available.](/static/img/global-poster-ten-commandments-2.jpg)

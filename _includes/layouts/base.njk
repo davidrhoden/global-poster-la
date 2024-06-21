@@ -3,18 +3,16 @@
 
 	{% include "components/head.njk" %}
 
-	<body>
+	<body class="schibsted-grotesk-500">
 
 		<header style="text-align: center">
 			<em>
-				<a href="{{ '/' | url }}">{{ metadata.title }}</a>
+				<a href="{{ '/' | url }}"><img src="/static/img/global-poster-logo.svg" alt="{{ metadata.title }}" style="max-width: 500px;"></a>
 			</em>
 			{% include "components/nav.njk" %}
 		</header>
 
-		<main>
 			{{ layoutContent | safe }}
-		</main>
 
 		{% include "components/footer.njk" %}
 

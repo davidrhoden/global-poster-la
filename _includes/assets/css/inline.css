@@ -1,11 +1,18 @@
 :root {
-	--primary: darkblue;
-	--secondary: red;
-	--background: #ffc269;
+	--primary: darkgray;
+	--secondary: white;
+	--background: #f0e1ca;
 }
 
 *, *:before, *:after {
   box-sizing: border-box;
+}
+
+.schibsted-grotesk-500 {
+  font-family: "Schibsted Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
 }
 
 .bebas-neue-regular {
@@ -18,7 +25,7 @@ html,
 body {
 	padding: 0;
 	margin: 0;
-	font-family: "Bebas Neue", Helvetica, Arial, sans-serif;
+	font-family: Helvetica, Arial, sans-serif;
 }
 
 body {
@@ -32,6 +39,10 @@ main {
 	margin: 0 auto;
 	max-width: 40em;
 	text-align: center;
+}
+
+main.main-home {
+	max-width: 90%;
 }
 
 p,

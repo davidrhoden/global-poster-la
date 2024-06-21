@@ -10,7 +10,8 @@ eleventyNavigation:
   order: 3
 ---
 
-Get in touch with Global Poster. Government-mandated Ten Commandments posters now available.
+Get in touch with Global Poster.
+Government-mandated Ten Commandments posters now available.
 We await your purchase orders.
 
 Due to the high volume of calls, we are not available to provide a general business phone number at this time.
