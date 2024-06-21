@@ -1,7 +1,7 @@
 ---
 layout: layouts/contact.njk
 title: Get in touch
-metaDescription: This is a sample meta description. If one is not present in your page/post's front matter, the default metadata.description will be used instead.
+metaDescription: Get in touch with Global Poster. Government-mandated Ten Commandments posters now available.
 section: contact
 date: 2018-01-01
 permalink: /contact/index.html
@@ -9,7 +9,10 @@ eleventyNavigation:
   key: Contact
   order: 3
 ---
-The contact form on this page uses [Netlify Forms](https://www.netlify.com/docs/form-handling/) to process submissions,
-and saves them in the connected Netlify account where notifications can
-optionally be configured. Each submission is passed through a spam filter and
-if flagged, will display a CAPTCHA challenge to the user.
+
+Get in touch with Global Poster. Government-mandated Ten Commandments posters now available.
+We await your purchase orders.
+
+Due to the high volume of calls, we are not available to provide a general business phone number at this time.
+
+Please use the contact form and a representative will be assigned to you.

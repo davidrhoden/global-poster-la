@@ -6,10 +6,16 @@ permalink: /
 eleventyNavigation:
   key: Home
   order: 0
+
 ---
-# Ten Commandments Classroom Posters Now Available
 
-![/static/img/global-poster-ten-commandments-1.jpg](ten commandments)
+<img src="/static/img/global-poster-ten-commandments-1-2.jpg" alt="Get in touch with Global Poster. Government-mandated Ten Commandments posters now available.">
 
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/danurbanowicz/eleventy-netlify-boilerplate&stack=cms)
+
+<img src="/static/img/global-poster-ten-commandments-1.jpg" alt="Get in touch with Global Poster. Government-mandated Ten Commandments posters now available.">
+
+
+<img src="/static/img/global-poster-ten-commandments-1.jpg" alt="Get in touch with Global Poster. Government-mandated Ten Commandments posters now available.">
+
+
