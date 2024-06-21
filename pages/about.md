@@ -1,7 +1,7 @@
 ---
 title: About us
 metaDescription: Learn all about Global Poster. Government-mandated Ten Commandments posters now available.
-date: 2017-01-01T00:00:00.000Z
+date: 2024-06-20T00:00:00.000Z
 permalink: /about/index.html
 eleventyNavigation:
   key: About

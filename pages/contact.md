@@ -3,7 +3,7 @@ layout: layouts/contact.njk
 title: Get in touch
 metaDescription: Get in touch with Global Poster. Government-mandated Ten Commandments posters now available.
 section: contact
-date: 2018-01-01
+date: 2024-06-20
 permalink: /contact/index.html
 eleventyNavigation:
   key: Contact

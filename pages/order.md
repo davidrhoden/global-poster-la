@@ -1,7 +1,7 @@
 ---
 title: Order from Global Poster
 metaDescription: Order from Global Poster. Government-mandated Ten Commandments posters now available.
-date: 2017-01-01T00:00:00.000Z
+date: 2024-06-20T00:00:00.000Z
 permalink: /order/index.html
 eleventyNavigation:
   key: Order
